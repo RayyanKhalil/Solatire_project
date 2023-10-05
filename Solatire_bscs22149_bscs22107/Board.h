@@ -9,6 +9,7 @@ class Board
 public:
     RectangleShape B;
     CircleShape C;
+
     Board();
     Board(int s1, int s2);
 

@@ -13,6 +13,7 @@ Board::Board()
 
     int _col = 255;
     B.setOutlineColor(Color(_col, _col, _col, _col - 128));
+
     int s = 1;
     B.setOutlineThickness(1);
 }

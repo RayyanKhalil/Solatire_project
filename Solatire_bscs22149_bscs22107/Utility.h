@@ -11,6 +11,7 @@ enum class Card_Types
 
 
 enum class cardNames
+
 {
     ACE = 1, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING
 };

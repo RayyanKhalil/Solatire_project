@@ -15,6 +15,7 @@ Card::Card(const Card& c)
     : _type(c._type),
     name(c.name),
     color(c.color),
+
     Row(c.Row),
     flipped(c.flipped),
     front_side(c.front_side),
