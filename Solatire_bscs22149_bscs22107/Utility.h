@@ -17,6 +17,7 @@ enum class cardNames
 
 enum class Color_
 {
+
     RED, BLACK
 };
 
