@@ -11,4 +11,5 @@ public:
     CircleShape C;
     Board();
     Board(int s1, int s2);
+
 };
